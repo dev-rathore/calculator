@@ -54,6 +54,7 @@ section{
 }
 
 .present-data{
+  overflow: hidden;
   animation: blink 0.7s ease infinite;
 }
 @keyframes blink {
